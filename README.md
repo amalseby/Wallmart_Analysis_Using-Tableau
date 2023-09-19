@@ -1,4 +1,4 @@
-# Wallmart Analysis Using-Tableau
+# Wallmart Analysis 
 
 The detailed analysis of the Walmart sales through the Tableau Dashboard is in the Walmart-sales-report which is in the repo only.
 
